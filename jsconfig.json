@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6"
+    },
+     // your used frameworks
+    "typeAcquisition": {
+        "include": [
+            "jquery",
+            "react",
+            "vue"
+        ]
+    }
+}
